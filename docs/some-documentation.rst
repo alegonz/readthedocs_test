@@ -7,3 +7,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 *   Foo
 *   Bar
 *   Baz
+
+The awesome class in this sample package is this one:
+
+.. module:: samplepkg.awesome
+.. autoclass:: AwesomeClass
+
+An interesting function is here:
+
+.. module:: samplepkg.subpkg.interesting
+.. autofunction:: interesting_function
